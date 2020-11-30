@@ -21,7 +21,7 @@ public class DataProvider {
         taris.add(new Tari("Kecak", "Bali",
                 "Jenis tarian ini menggambarkan tentang cerita Pewayangan, khususnya untuk cerita Ramayana yang dipertunjukan dengan seni gerak dan tarian.", R.drawable.tari_kecak));
         taris.add(new Tari("Saman", "Gayo",
-                "Tarian satu ini merupakan sebuah tarian suku Gayo yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat.", R.drawable.tari_saman_meuseukat));
+                "Tarian satu inimerupakan sebuah tarian suku Gayo yang biasa ditampilkan ketika perayaan peristiwa-peristiwa penting di dalam adat.", R.drawable.tari_saman_meuseukat));
         taris.add(new Tari("Topeng", "Jakarta",
                 "Sebab kota yang dipenuhi dengan berbagai gedung tinggi ini juga memiliki berbagai kesenian tradisional yang unik dan dikenal hingga mancanegara.", R.drawable.tarireog_ponorogo));
         taris.add(new Tari("Ponorogo", "Jawa Timur",
